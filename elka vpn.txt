@@ -4,17 +4,28 @@
 #support-url: https://t.me/GLelkavpn_bot
 #profile-web-page-url: https://t.me/GLelkavpn_bot
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://fb2e7263-90fd-440e-98bf-4251dab89536@cont1.stockvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cont1.stockvpn.online&fp=chrome&pbk=EhKMiFF4gR8mEkZp1riQDXCqulNGjJT9ImHi-yipXHI&sid=bb3c1ff648980ad6&type=tcp#Обход глушилок ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@isp2.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=isp2.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇪🇸 Испания ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@fr03.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fr03.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇫🇷 Франция ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@fl03.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fl03.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇫🇮 Финляндия ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@vl01.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=vl01.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇬🇧 Великобритания ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@nv02.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=nv02.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇳🇴 Норвегия ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@ger02.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=ger02.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇩🇪 Германия ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@hisnd01.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=hisnd01.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇳🇱 Нидерланды ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@tur.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=tur.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇹🇷 Турция ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@usa02.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=usa02.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇺🇸 США ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@kor01.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=kor01.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇰🇷 Южная Корея ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@ru10.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=ru10.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇷🇺 Россия ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@ru09.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=ru09.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇳🇱 Мост ELKA VPN
-vless://00a31b83-d78a-4866-9124-bf80ab961501@nd07.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=nd07.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#💎Gemini ELKA VPN
+vless://dcfc3b18-febc-4957-bacf-d6c854de89a8@kelm.bexum.fun:5443?security=reality&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%BA%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA(%D0%90%D0%B2%D1%82%D0%BE)%20ELKA%20VPN
+
+vless://00a31b83-d78a-4866-9124-bf80ab961501@fr03.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fr03.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇫🇷 Франция ELKA%20VPN
+
+vless://00a31b83-d78a-4866-9124-bf80ab961501@fl03.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fl03.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#Финляндия🇫🇮 ELKA%20VPN
+
+vless://02093a1f-27df-4b74-94fb-ba21e6e26491@144.31.47.56:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=Sej8HxV0t3wxhyz6ol--mnl1JP3kRhzSuMlYuvzaCwI&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=74a8b5148033ab#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%232%20ELKA%20VPN
+
+vless://00a31b83-d78a-4866-9124-bf80ab961501@vl01.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=vl01.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇬🇧 Великобритания ELKA%20VPN
+
+vless://00a31b83-d78a-4866-9124-bf80ab961501@nv02.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=nv02.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇳🇴 Норвегия ELKA%20VPN
+
+vless://02093a1f-27df-4b74-94fb-ba21e6e26491@193.58.121.113:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=YYQgLsZiDfnG58FysKhy2TypDbX6vYDN28yrxeSHp1Y&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=a95b25f3#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20ELKA%20VPN
+
+vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@172.86.93.29:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.akamai.com&fp=randomized&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&sid=#⚡🇩🇪 Германия #2 ELKA%20VPN
+
+vless://02093a1f-27df-4b74-94fb-ba21e6e26491@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20ELKA%20VPN
+
+vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@37.49.227.189:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=randomized&pbk=USxaWDRKvJlZ-aHR-OGBT2XwVas2j4_1rhZCCfVNCBY&sid=#⚡🇳🇱 Нидерланды #2 ELKA%20VPN
+
+vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@78.40.117.244:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.blocket.se&fp=randomized&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&sid=#🇸🇪 Швеция ELKA%20VPN
+
+vless://dbaa10be-480b-4e3d-91cf-950dab5e6a70@pl-01.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20ELKA%20VPN
+
+vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@185.139.214.254:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cloudcdn-m9-15.cdn.yandex.net&fp=randomized&pbk=APwi9yR-ezZtFU6xj2a3SBoXvEoWOoiRuZSit0N9xWI&sid=#⚡🇺🇸 США ELKA%20VPN
