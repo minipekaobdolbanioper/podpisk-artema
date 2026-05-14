@@ -1,21 +1,79 @@
-#profile-title: 🛜 ELKAVPN 
+#profile-title: 🛜 админ панель 
 #announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️.
 #profile-update-interval: 1
 #support-url: https://t.me/GLelkavpn_bot
 #profile-web-page-url: https://t.me/GLelkavpn_bot
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://11547626-7da9-000c-8a8a-ea9dc1d21e80@co-vk.speedtec.ru:443?security=reality&sni=eh.vk.com&fp=chrome&pbk=VbHm0VbqW1992faNSxDoh_zEfoBkpifWUudV8mf5y3M&sid=226509f017e4c36d&type=tcp&flow=xtls-rprx-vision#LTE%20%231%20%40ELKA%20VPN
+vless://00000000-0000-0000-0000-000000000000@vpnelkabot.net:1?path=vpnelkabot&security=none&encryption=vpnelkabot&host=vpnelkabot&advancedfragment=c3dvcmR3YXJlLm5ldA==&type=httpupgrade#%D0%A2%D0%93%20%D0%92%D0%9F%D0%9D%D0%90%20%40vpnelkabot
 
-vless://dcfc3b18-febc-4957-bacf-d6c854de89a8@kelm.bexum.fun:5443?security=reality&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&type=tcp&flow=xtls-rprx-vision#LTE%20%232%20%40ELKA%20VPN
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%E2%AC%87%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%87%EF%B8%8F%40vpnelkabot
 
-vless://11547626-7da9-000e-8a8a-ea9dc1d21e80@co-vk.speedtec.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&pbk=VbHm0VbqW1992faNSxDoh_zEfoBkpifWUudV8mf5y3M&sid=226509f017e4c36d#LTE%20%233%20%40ELKA%20VPN
+vless://00000000-0000-0000-0000-000000000000@vpnelkabot.net:1?path=vpnelkabot&security=none&encryption=vpnelkabot&host=vpnelkabot&advancedfragment=c3dvcmR3YXJlLm5ldA==&type=httpupgrade#%E2%AC%87%EF%B8%8F%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0+%D0%B8%D0%B7+%D0%B0%D0%B2%D1%82%D0%BE+%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0%E2%AC%87%EF%B8%8F
 
-vless://11547626-7da9-000b-8a8a-ea9dc1d21e80@co-vk.speedtec.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&pbk=VbHm0VbqW1992faNSxDoh_zEfoBkpifWUudV8mf5y3M&sid=226509f017e4c36d#LTE%20#4%20(Авто)%20@ELKA%20VPN
+vless://5a1056f2-01f0-42f8-8db1-fdb1029c797e@216.227.157.28:50095?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&fp=chrome&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&sid=8517f57284f838d3#🇺🇸 США #1 |25 Гбит/сек
 
-vless://00a31b83-d78a-4866-9124-bf80ab961501@fr03.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fr03.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇫🇷%20Франция%20@ELKA%20VPN
+vless://50ae3418-7795-4739-b9b8-5d4ee6604874@138.124.98.24:443?security=reality&encryption=none&echfq=none&pbk=H_rsAvLVpqqy0hOOLsYD07xBmkg2yuwdQDiSpjGZ8xk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl3.ritmvpn.org&sid=a1ab5a56bc42a1b1#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+10+gbit+%231
 
-vless://02093a1f-27df-4b74-94fb-ba21e6e26491@144.31.47.56:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=Sej8HxV0t3wxhyz6ol--mnl1JP3kRhzSuMlYuvzaCwI&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=74a8b5148033ab#🇫🇮Финляндия%20@ELKA%20VPN
+vless://50ae3418-7795-4739-b9b8-5d4ee6604874@95.85.248.44:443?security=reality&encryption=none&echfq=none&pbk=fR306gAPf5WfXYNjahxDVpdniwN0swCDouVV8tXpPS8&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.ritmvpn.org&sid=a1ab5a56bc42a1b1#%F0%9F%87%B3%F0%9F%87%B1++%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+10+gbit+%232
 
-vless://02093a1f-27df-4b74-94fb-ba21e6e26491@193.58.121.113:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=YYQgLsZiDfnG58FysKhy2TypDbX6vYDN28yrxeSHp1Y&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=a95b25f3#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20@ELKA%20VPN
+vless://50ae3418-7795-4739-b9b8-5d4ee6604874@31.59.39.97:443?security=reality&encryption=none&echfq=none&pbk=3BimcA-HRinWRE5JzEVzlM1yQX8xSd2O842SyTRIe1I&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl2.ritmvpn.org&sid=a1ab5a56bc42a1b1#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+10+gbit+%233
 
-vless://02093a1f-27df-4b74-94fb-ba21e6e26491@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20@ELKA%20VPN
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@at.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=at.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%A6%F0%9F%87%B9+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
+
+vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@at.sbrf-cdn342.ru:443?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A6%F0%9F%87%B9+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F+%232
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@am.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=am.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%A6%F0%9F%87%B2+%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@bg.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=bg.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%A7%F0%9F%87%AC+%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@de2.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de2.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@il2.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=il2.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%AE%F0%9F%87%B1+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@kz.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=kz.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B0%F0%9F%87%BF+%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@nl.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@pl-01.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@ru.c2horizon.app:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@us2.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=us2.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%BA%F0%9F%87%B8+%D0%A1%D0%A8%D0%90
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@tr.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tr.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B9%F0%9F%87%B7+%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@fr.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fr.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%AB%F0%9F%87%B7+%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+
+vless://b6e3ad2d-819b-492c-a494-751e2d599c01@ee.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ee.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%AA%F0%9F%87%AA+%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
+
+vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@kz.sbrf-cdn342.ru:443?security=tls&encryption=none&alpn=http/1.1&echfq=none&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B0%F0%9F%87%BF+%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD+%232
+
+vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@uae.sbrf-cdn342.ru:443?security=tls&encryption=none&alpn=http/1.1&echfq=none&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A6%F0%9F%87%AA+%D0%9E%D0%90%D0%AD
+
+vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@georg.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%AC%F0%9F%87%AA+%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F
+
+vless://50ae3418-7795-4739-b9b8-5d4ee6604874@45.91.53.170:8443?security=reality&encryption=none&echfq=none&pbk=mAAUq-FTkfw2HOWITaQBSJ1oUdhfEZ5FfBsdBjqgiSo&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323b#%F0%9F%87%B7%F0%9F%87%BA++%D0%94%D0%BB%D1%8F+YouTube
+
+vless://50ae3418-7795-4739-b9b8-5d4ee6604874@85.192.49.123:5443?security=reality&encryption=none&echfq=none&pbk=TYGNzNJ_2ru-WgMXXCHiw5pTF4WS9q0aja9aFgskChY&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=ad7dab462a323c#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%7C+%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9+%F0%9F%92%8E
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@85.239.63.126:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%A6%F0%9F%87%B2+%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F+%7C+%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9+%F0%9F%92%8E
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@46.254.19.103:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#%E2%AC%87%EF%B8%8F+%D0%94%D0%BB%D1%8F+%D0%9C%D0%BE%D0%B1.+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0+%E2%AC%87%EF%B8%8F
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@46.254.19.103:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#%D0%91%D0%A1+1
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@37.143.15.138:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#%D0%91%D0%A1+2
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@37.143.15.166:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%D0%91%D0%A1+3
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@46.254.18.107:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%D0%91%D0%A1+4
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@ru1.platinatester.icu:443?security=reality&encryption=none&echfq=none&pbk=pCuxB_edEjjHHt_sYHEAEQyrX2L1VfDaQkPpnd78LAM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru1.platinatester.icu#%D0%91%D0%A1+5
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@46.8.209.160:443?security=reality&encryption=none&echfq=none&pbk=pCuxB_edEjjHHt_sYHEAEQyrX2L1VfDaQkPpnd78LAM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=db04ce8bdb8900f1#%D0%91%D0%A1+6
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@37.143.14.178:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#%D0%91%D0%A1+7
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%E2%AC%86%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%86%EF%B8%8F+%40vpnelkabot
+
+vless://00000000-0000-0000-0000-0000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%D0%A2%D0%93+%D0%92%D0%9F%D0%9D%D0%90+%40vpnelkabot
