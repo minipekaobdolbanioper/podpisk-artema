@@ -4,76 +4,781 @@
 #support-url: https://t.me/GLelkavpn_bot
 #profile-web-page-url: https://t.me/GLelkavpn_bot
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://00000000-0000-0000-0000-000000000000@vpnelkabot.net:1?path=vpnelkabot&security=none&encryption=vpnelkabot&host=vpnelkabot&advancedfragment=c3dvcmR3YXJlLm5ldA==&type=httpupgrade#%D0%A2%D0%93%20%D0%92%D0%9F%D0%9D%D0%90%20%40vpnelkabot
+warp-common: &warp-common
+  type: wireguard
+  ip: 172.16.0.2
+  ipv6: 2606:4700:110:832b:1b39:3959:dc40:fa42
+  private-key: yM10eGmGG9KyBelAkidyVwG1OJWhIVXJ3M5/dKQQXUA=
+  public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+  allowed-ips: ['0.0.0.0/0']
+  reserved: [139, 58, 212]
+  udp: true
+  mtu: 1280
+  remote-dns-resolve: true
+  dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
+  amnezia-wg-option:
+   jc: 4
+   jmin: 40
+   jmax: 70
+   s1: 0
+   s2: 0
+   h1: 1
+   h2: 2
+   h4: 3
+   h3: 4
+   i1: <b 0xce000000010897a297ecc34cd6dd000044d0ec2e2e1ea2991f467ace4222129b5a098823784694b4897b9986ae0b7280135fa85e196d9ad980b150122129ce2a9379531b0fd3e871ca5fdb883c369832f730e272d7b8b74f393f9f0fa43f11e510ecb2219a52984410c204cf875585340c62238e14ad04dff382f2c200e0ee22fe743b9c6b8b043121c5710ec289f471c91ee414fca8b8be8419ae8ce7ffc53837f6ade262891895f3f4cecd31bc93ac5599e18e4f01b472362b8056c3172b513051f8322d1062997ef4a383b01706598d08d48c221d30e74c7ce000cdad36b706b1bf9b0607c32ec4b3203a4ee21ab64df336212b9758280803fcab14933b0e7ee1e04a7becce3e2633f4852585c567894a5f9efe9706a151b615856647e8b7dba69ab357b3982f554549bef9256111b2d67afde0b496f16962d4957ff654232aa9e845b61463908309cfd9de0a6abf5f425f577d7e5f6440652aa8da5f73588e82e9470f3b21b27b28c649506ae1a7f5f15b876f56abc4615f49911549b9bb39dd804fde182bd2dcec0c33bad9b138ca07d4a4a1650a2c2686acea05727e2a78962a840ae428f55627516e73c83dd8893b02358e81b524b4d99fda6df52b3a8d7a5291326e7ac9d773c5b43b8444554ef5aea104a738ed650aa979674bbed38da58ac29d87c29d387d80b526065baeb073ce65f075ccb56e47533aef357dceaa8293a523c5f6f790be90e4731123d3c6152a70576e90b4ab5bc5ead01576c68ab633ff7d36dcde2a0b2c68897e1acfc4d6483aaaeb635dd63c96b2b6a7a2bfe042f6aed82e5363aa850aace12ee3b1a93f30d8ab9537df483152a5527faca21efc9981b304f11fc95336f5b9637b174c5a0659e2b22e159a9fed4b8e93047371175b1d6d9cc8ab745f3b2281537d1c75fb9451871864efa5d184c38c185fd203de206751b92620f7c369e031d2041e152040920ac2c5ab5340bfc9d0561176abf10a147287ea90758575ac6a9f5ac9f390d0d5b23ee12af583383d994e22c0cf42383834bcd3ada1b3825a0664d8f3fb678261d57601ddf94a8a68a7c273a18c08aa99c7ad8c6c42eab67718843597ec9930457359dfdfbce024afc2dcf9348579a57d8d3490b2fa99f278f1c37d87dad9b221acd575192ffae1784f8e60ec7cee4068b6b988f0433d96d6a1b1865f4e155e9fe020279f434f3bf1bd117b717b92f6cd1cc9bea7d45978bcc3f24bda631a36910110a6ec06da35f8966c9279d130347594f13e9e07514fa370754d1424c0a1545c5070ef9fb2acd14233e8a50bfc5978b5bdf8bc1714731f798d21e2004117c61f2989dd44f0cf027b27d4019e81ed4b5c31db347c4a3a4d85048d7093cf16753d7b0d15e078f5c7a5205dc2f87e330a1f716738dce1c6180e9d02869b5546f1c4d2748f8c90d9693cba4e0079297d22fd61402dea32ff0eb69ebd65a5d0b687d87e3a8b2c42b648aa723c7c7daf37abcc4bb85caea2ee8f55bec20e913b3324ab8f5c3304f820d42ad1b9f2ffc1a3af9927136b4419e1e579ab4c2ae3c776d293d397d575df181e6cae0a4ada5d67ecea171cca3288d57c7bbdaee3befe745fb7d634f70386d873b90c4d6c6596bb65af68f9e5121e67ebf0d89d3c909ceedfb32ce9575a7758ff080724e1ab5d5f43074ecb53a479af21ed03d7b6899c36631c0166f9d47e5e1d4528a5d3d3f744029c4b1c190cbfbad06f5f83f7ad0429fa9a2719c56ffe3783460e166de2d8>
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%E2%AC%87%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%87%EF%B8%8F%40vpnelkabot
+proxies:
+# Гео-endpoint'ы
+- name: "[🌍] 🇳🇱 Нидерланды"
+  <<: *warp-common
+  server: nl.tribukvy.ltd
+  port: 500
+- name: "[🌍] 🇵🇱 Польша"
+  <<: *warp-common
+  server: pl.tribukvy.ltd
+  port: 500
+- name: "[🌍] 🇷🇺 Россия"
+  <<: *warp-common
+  server: ru0.tribukvy.ltd
+  port: 500
+- name: "[🌍] 🇫🇮 Финляндия"
+  <<: *warp-common
+  server: fi.tribukvy.ltd
+  port: 500
+- name: "[🌍] 🇩🇪 Германия"
+  <<: *warp-common
+  server: de.tribukvy.ltd
+  port: 500
+- name: "[🌍] 🇱🇻 Латвия"
+  <<: *warp-common
+  server: lv.tribukvy.ltd
+  port: 500
+- name: "[🌍] LTE 🇵🇱 Польша"
+  <<: *warp-common
+  server: mpl.tribukvy.ltd
+  port: 500
+- name: "[🌍] LTE 🇫🇮 Финляндия"
+  <<: *warp-common
+  server: mfi.tribukvy.ltd
+  port: 500
 
-vless://00000000-0000-0000-0000-000000000000@vpnelkabot.net:1?path=vpnelkabot&security=none&encryption=vpnelkabot&host=vpnelkabot&advancedfragment=c3dvcmR3YXJlLm5ldA==&type=httpupgrade#%E2%AC%87%EF%B8%8F%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0+%D0%B8%D0%B7+%D0%B0%D0%B2%D1%82%D0%BE+%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0%E2%AC%87%EF%B8%8F
+# Оригинальные эндпоинты
+- name: "[⭐] 188.114.97.1:500"
+  <<: *warp-common
+  server: 188.114.97.1
+  port: 500
+- name: "[⭐] 188.114.97.148:4500"
+  <<: *warp-common
+  server: 188.114.97.148
+  port: 4500
+- name: "[⭐] 162.159.195.1:500"
+  <<: *warp-common
+  server: 162.159.195.1
+  port: 500
+- name: "[⭐] engage.cloudflareclient.com:4500"
+  <<: *warp-common
+  server: engage.cloudflareclient.com
+  port: 4500
+- name: "[⭐] engage.cloudflareclient.com:500"
+  <<: *warp-common
+  server: engage.cloudflareclient.com
+  port: 500
+- name: "[⭐] engage.cloudflareclient.com:2408"
+  <<: *warp-common
+  server: engage.cloudflareclient.com
+  port: 2408
+- name: "[⭐] 188.114.99.224:1002"
+  <<: *warp-common
+  server: 188.114.99.224
+  port: 1002
+- name: "[⭐] 8.34.146.113:968"
+  <<: *warp-common
+  server: 8.34.146.113
+  port: 968
 
-vless://5a1056f2-01f0-42f8-8db1-fdb1029c797e@216.227.157.28:50095?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&fp=chrome&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&sid=8517f57284f838d3#🇺🇸 США #1 |25 Гбит/сек
+# 162.159.192.1-20
+- name: "162.159.192.1:2408"
+  <<: *warp-common
+  server: 162.159.192.1
+  port: 2408
+- name: "162.159.192.1:1701"
+  <<: *warp-common
+  server: 162.159.192.1
+  port: 1701
+- name: "162.159.192.1:4500"
+  <<: *warp-common
+  server: 162.159.192.1
+  port: 4500
+- name: "162.159.192.1:500"
+  <<: *warp-common
+  server: 162.159.192.1
+  port: 500
+- name: "162.159.192.2:2408"
+  <<: *warp-common
+  server: 162.159.192.2
+  port: 2408
+- name: "162.159.192.2:1701"
+  <<: *warp-common
+  server: 162.159.192.2
+  port: 1701
+- name: "162.159.192.2:4500"
+  <<: *warp-common
+  server: 162.159.192.2
+  port: 4500
+- name: "162.159.192.2:500"
+  <<: *warp-common
+  server: 162.159.192.2
+  port: 500
+- name: "162.159.192.3:2408"
+  <<: *warp-common
+  server: 162.159.192.3
+  port: 2408
+- name: "162.159.192.3:1701"
+  <<: *warp-common
+  server: 162.159.192.3
+  port: 1701
+- name: "162.159.192.3:4500"
+  <<: *warp-common
+  server: 162.159.192.3
+  port: 4500
+- name: "162.159.192.3:500"
+  <<: *warp-common
+  server: 162.159.192.3
+  port: 500
+- name: "162.159.192.4:2408"
+  <<: *warp-common
+  server: 162.159.192.4
+  port: 2408
+- name: "162.159.192.4:1701"
+  <<: *warp-common
+  server: 162.159.192.4
+  port: 1701
+- name: "162.159.192.4:4500"
+  <<: *warp-common
+  server: 162.159.192.4
+  port: 4500
+- name: "162.159.192.4:500"
+  <<: *warp-common
+  server: 162.159.192.4
+  port: 500
+- name: "162.159.192.5:2408"
+  <<: *warp-common
+  server: 162.159.192.5
+  port: 2408
+- name: "162.159.192.5:1701"
+  <<: *warp-common
+  server: 162.159.192.5
+  port: 1701
+- name: "162.159.192.5:4500"
+  <<: *warp-common
+  server: 162.159.192.5
+  port: 4500
+- name: "162.159.192.5:500"
+  <<: *warp-common
+  server: 162.159.192.5
+  port: 500
+- name: "162.159.192.6:2408"
+  <<: *warp-common
+  server: 162.159.192.6
+  port: 2408
+- name: "162.159.192.6:1701"
+  <<: *warp-common
+  server: 162.159.192.6
+  port: 1701
+- name: "162.159.192.6:4500"
+  <<: *warp-common
+  server: 162.159.192.6
+  port: 4500
+- name: "162.159.192.6:500"
+  <<: *warp-common
+  server: 162.159.192.6
+  port: 500
+- name: "162.159.192.7:2408"
+  <<: *warp-common
+  server: 162.159.192.7
+  port: 2408
+- name: "162.159.192.7:1701"
+  <<: *warp-common
+  server: 162.159.192.7
+  port: 1701
+- name: "162.159.192.7:4500"
+  <<: *warp-common
+  server: 162.159.192.7
+  port: 4500
+- name: "162.159.192.7:500"
+  <<: *warp-common
+  server: 162.159.192.7
+  port: 500
+- name: "162.159.192.8:2408"
+  <<: *warp-common
+  server: 162.159.192.8
+  port: 2408
+- name: "162.159.192.8:1701"
+  <<: *warp-common
+  server: 162.159.192.8
+  port: 1701
+- name: "162.159.192.8:4500"
+  <<: *warp-common
+  server: 162.159.192.8
+  port: 4500
+- name: "162.159.192.8:500"
+  <<: *warp-common
+  server: 162.159.192.8
+  port: 500
+- name: "162.159.192.9:2408"
+  <<: *warp-common
+  server: 162.159.192.9
+  port: 2408
+- name: "162.159.192.9:1701"
+  <<: *warp-common
+  server: 162.159.192.9
+  port: 1701
+- name: "162.159.192.9:4500"
+  <<: *warp-common
+  server: 162.159.192.9
+  port: 4500
+- name: "162.159.192.9:500"
+  <<: *warp-common
+  server: 162.159.192.9
+  port: 500
+- name: "162.159.192.10:2408"
+  <<: *warp-common
+  server: 162.159.192.10
+  port: 2408
+- name: "162.159.192.10:1701"
+  <<: *warp-common
+  server: 162.159.192.10
+  port: 1701
+- name: "162.159.192.10:4500"
+  <<: *warp-common
+  server: 162.159.192.10
+  port: 4500
+- name: "162.159.192.10:500"
+  <<: *warp-common
+  server: 162.159.192.10
+  port: 500
+- name: "162.159.192.11:2408"
+  <<: *warp-common
+  server: 162.159.192.11
+  port: 2408
+- name: "162.159.192.11:1701"
+  <<: *warp-common
+  server: 162.159.192.11
+  port: 1701
+- name: "162.159.192.11:4500"
+  <<: *warp-common
+  server: 162.159.192.11
+  port: 4500
+- name: "162.159.192.11:500"
+  <<: *warp-common
+  server: 162.159.192.11
+  port: 500
+- name: "162.159.192.12:2408"
+  <<: *warp-common
+  server: 162.159.192.12
+  port: 2408
+- name: "162.159.192.12:1701"
+  <<: *warp-common
+  server: 162.159.192.12
+  port: 1701
+- name: "162.159.192.12:4500"
+  <<: *warp-common
+  server: 162.159.192.12
+  port: 4500
+- name: "162.159.192.12:500"
+  <<: *warp-common
+  server: 162.159.192.12
+  port: 500
+- name: "162.159.192.13:2408"
+  <<: *warp-common
+  server: 162.159.192.13
+  port: 2408
+- name: "162.159.192.13:1701"
+  <<: *warp-common
+  server: 162.159.192.13
+  port: 1701
+- name: "162.159.192.13:4500"
+  <<: *warp-common
+  server: 162.159.192.13
+  port: 4500
+- name: "162.159.192.13:500"
+  <<: *warp-common
+  server: 162.159.192.13
+  port: 500
+- name: "162.159.192.14:2408"
+  <<: *warp-common
+  server: 162.159.192.14
+  port: 2408
+- name: "162.159.192.14:1701"
+  <<: *warp-common
+  server: 162.159.192.14
+  port: 1701
+- name: "162.159.192.14:4500"
+  <<: *warp-common
+  server: 162.159.192.14
+  port: 4500
+- name: "162.159.192.14:500"
+  <<: *warp-common
+  server: 162.159.192.14
+  port: 500
+- name: "162.159.192.15:2408"
+  <<: *warp-common
+  server: 162.159.192.15
+  port: 2408
+- name: "162.159.192.15:1701"
+  <<: *warp-common
+  server: 162.159.192.15
+  port: 1701
+- name: "162.159.192.15:4500"
+  <<: *warp-common
+  server: 162.159.192.15
+  port: 4500
+- name: "162.159.192.15:500"
+  <<: *warp-common
+  server: 162.159.192.15
+  port: 500
+- name: "162.159.192.16:2408"
+  <<: *warp-common
+  server: 162.159.192.16
+  port: 2408
+- name: "162.159.192.16:1701"
+  <<: *warp-common
+  server: 162.159.192.16
+  port: 1701
+- name: "162.159.192.16:4500"
+  <<: *warp-common
+  server: 162.159.192.16
+  port: 4500
+- name: "162.159.192.16:500"
+  <<: *warp-common
+  server: 162.159.192.16
+  port: 500
+- name: "162.159.192.17:2408"
+  <<: *warp-common
+  server: 162.159.192.17
+  port: 2408
+- name: "162.159.192.17:1701"
+  <<: *warp-common
+  server: 162.159.192.17
+  port: 1701
+- name: "162.159.192.17:4500"
+  <<: *warp-common
+  server: 162.159.192.17
+  port: 4500
+- name: "162.159.192.17:500"
+  <<: *warp-common
+  server: 162.159.192.17
+  port: 500
+- name: "162.159.192.18:2408"
+  <<: *warp-common
+  server: 162.159.192.18
+  port: 2408
+- name: "162.159.192.18:1701"
+  <<: *warp-common
+  server: 162.159.192.18
+  port: 1701
+- name: "162.159.192.18:4500"
+  <<: *warp-common
+  server: 162.159.192.18
+  port: 4500
+- name: "162.159.192.18:500"
+  <<: *warp-common
+  server: 162.159.192.18
+  port: 500
+- name: "162.159.192.19:2408"
+  <<: *warp-common
+  server: 162.159.192.19
+  port: 2408
+- name: "162.159.192.19:1701"
+  <<: *warp-common
+  server: 162.159.192.19
+  port: 1701
+- name: "162.159.192.19:4500"
+  <<: *warp-common
+  server: 162.159.192.19
+  port: 4500
+- name: "162.159.192.19:500"
+  <<: *warp-common
+  server: 162.159.192.19
+  port: 500
+- name: "162.159.192.20:2408"
+  <<: *warp-common
+  server: 162.159.192.20
+  port: 2408
+- name: "162.159.192.20:1701"
+  <<: *warp-common
+  server: 162.159.192.20
+  port: 1701
+- name: "162.159.192.20:4500"
+  <<: *warp-common
+  server: 162.159.192.20
+  port: 4500
+- name: "162.159.192.20:500"
+  <<: *warp-common
+  server: 162.159.192.20
+  port: 500
 
-vless://50ae3418-7795-4739-b9b8-5d4ee6604874@138.124.98.24:443?security=reality&encryption=none&echfq=none&pbk=H_rsAvLVpqqy0hOOLsYD07xBmkg2yuwdQDiSpjGZ8xk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl3.ritmvpn.org&sid=a1ab5a56bc42a1b1#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+10+gbit+%231
+# 162.159.195.1-10
+- name: "162.159.195.1:2408"
+  <<: *warp-common
+  server: 162.159.195.1
+  port: 2408
+- name: "162.159.195.1:1701"
+  <<: *warp-common
+  server: 162.159.195.1
+  port: 1701
+- name: "162.159.195.1:4500"
+  <<: *warp-common
+  server: 162.159.195.1
+  port: 4500
+- name: "162.159.195.2:2408"
+  <<: *warp-common
+  server: 162.159.195.2
+  port: 2408
+- name: "162.159.195.2:1701"
+  <<: *warp-common
+  server: 162.159.195.2
+  port: 1701
+- name: "162.159.195.2:4500"
+  <<: *warp-common
+  server: 162.159.195.2
+  port: 4500
+- name: "162.159.195.2:500"
+  <<: *warp-common
+  server: 162.159.195.2
+  port: 500
+- name: "162.159.195.3:2408"
+  <<: *warp-common
+  server: 162.159.195.3
+  port: 2408
+- name: "162.159.195.3:1701"
+  <<: *warp-common
+  server: 162.159.195.3
+  port: 1701
+- name: "162.159.195.3:4500"
+  <<: *warp-common
+  server: 162.159.195.3
+  port: 4500
+- name: "162.159.195.3:500"
+  <<: *warp-common
+  server: 162.159.195.3
+  port: 500
+- name: "162.159.195.4:2408"
+  <<: *warp-common
+  server: 162.159.195.4
+  port: 2408
+- name: "162.159.195.4:1701"
+  <<: *warp-common
+  server: 162.159.195.4
+  port: 1701
+- name: "162.159.195.4:4500"
+  <<: *warp-common
+  server: 162.159.195.4
+  port: 4500
+- name: "162.159.195.4:500"
+  <<: *warp-common
+  server: 162.159.195.4
+  port: 500
+- name: "162.159.195.5:2408"
+  <<: *warp-common
+  server: 162.159.195.5
+  port: 2408
+- name: "162.159.195.5:1701"
+  <<: *warp-common
+  server: 162.159.195.5
+  port: 1701
+- name: "162.159.195.5:4500"
+  <<: *warp-common
+  server: 162.159.195.5
+  port: 4500
+- name: "162.159.195.5:500"
+  <<: *warp-common
+  server: 162.159.195.5
+  port: 500
+- name: "162.159.195.6:2408"
+  <<: *warp-common
+  server: 162.159.195.6
+  port: 2408
+- name: "162.159.195.6:1701"
+  <<: *warp-common
+  server: 162.159.195.6
+  port: 1701
+- name: "162.159.195.6:4500"
+  <<: *warp-common
+  server: 162.159.195.6
+  port: 4500
+- name: "162.159.195.6:500"
+  <<: *warp-common
+  server: 162.159.195.6
+  port: 500
+- name: "162.159.195.7:2408"
+  <<: *warp-common
+  server: 162.159.195.7
+  port: 2408
+- name: "162.159.195.7:1701"
+  <<: *warp-common
+  server: 162.159.195.7
+  port: 1701
+- name: "162.159.195.7:4500"
+  <<: *warp-common
+  server: 162.159.195.7
+  port: 4500
+- name: "162.159.195.7:500"
+  <<: *warp-common
+  server: 162.159.195.7
+  port: 500
+- name: "162.159.195.8:2408"
+  <<: *warp-common
+  server: 162.159.195.8
+  port: 2408
+- name: "162.159.195.8:1701"
+  <<: *warp-common
+  server: 162.159.195.8
+  port: 1701
+- name: "162.159.195.8:4500"
+  <<: *warp-common
+  server: 162.159.195.8
+  port: 4500
+- name: "162.159.195.8:500"
+  <<: *warp-common
+  server: 162.159.195.8
+  port: 500
+- name: "162.159.195.9:2408"
+  <<: *warp-common
+  server: 162.159.195.9
+  port: 2408
+- name: "162.159.195.9:1701"
+  <<: *warp-common
+  server: 162.159.195.9
+  port: 1701
+- name: "162.159.195.9:4500"
+  <<: *warp-common
+  server: 162.159.195.9
+  port: 4500
+- name: "162.159.195.9:500"
+  <<: *warp-common
+  server: 162.159.195.9
+  port: 500
+- name: "162.159.195.10:2408"
+  <<: *warp-common
+  server: 162.159.195.10
+  port: 2408
+- name: "162.159.195.10:1701"
+  <<: *warp-common
+  server: 162.159.195.10
+  port: 1701
+- name: "162.159.195.10:4500"
+  <<: *warp-common
+  server: 162.159.195.10
+  port: 4500
+- name: "162.159.195.10:500"
+  <<: *warp-common
+  server: 162.159.195.10
+  port: 500
 
-vless://50ae3418-7795-4739-b9b8-5d4ee6604874@95.85.248.44:443?security=reality&encryption=none&echfq=none&pbk=fR306gAPf5WfXYNjahxDVpdniwN0swCDouVV8tXpPS8&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.ritmvpn.org&sid=a1ab5a56bc42a1b1#%F0%9F%87%B3%F0%9F%87%B1++%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+10+gbit+%232
+rule-providers:
+  porno:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/nellimonix/ClashXRule@release/porno.txt"
+    path: ./ruleset/porno.yaml
+    interval: 86400
+  discord:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/nellimonix/ClashXRule@release/discord.txt"
+    path: ./ruleset/discord.yaml
+    interval: 86400
+  youtube:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/nellimonix/ClashXRule@release/youtube.txt"
+    path: ./ruleset/youtube.yaml
+    interval: 86400
+  socials:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/nellimonix/ClashXRule@release/socials.txt"
+    path: ./ruleset/socials.yaml
+    interval: 86400
+  torrent:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/nellimonix/ClashXRule@release/torrent.txt"
+    path: ./ruleset/torrent.yaml
+    interval: 86400
+  tools:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/nellimonix/ClashXRule@release/tools.txt"
+    path: ./ruleset/tools.yaml
+    interval: 86400
+  music:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/nellimonix/ClashXRule@release/music.txt"
+    path: ./ruleset/music.yaml
+    interval: 86400
+  telegram:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/nellimonix/ClashXRule@release/telegram.txt"
+    path: ./ruleset/telegram.yaml
+    interval: 86400
 
-vless://50ae3418-7795-4739-b9b8-5d4ee6604874@31.59.39.97:443?security=reality&encryption=none&echfq=none&pbk=3BimcA-HRinWRE5JzEVzlM1yQX8xSd2O842SyTRIe1I&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl2.ritmvpn.org&sid=a1ab5a56bc42a1b1#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+10+gbit+%233
+proxy-groups:
+- name: Cloudflare
+  type: select
+  icon: https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg
+  proxies:
+    - "[🌍] 🇳🇱 Нидерланды"
+    - "[🌍] 🇵🇱 Польша"
+    - "[🌍] 🇷🇺 Россия"
+    - "[🌍] 🇫🇮 Финляндия"
+    - "[🌍] 🇩🇪 Германия"
+    - "[🌍] 🇱🇻 Латвия"
+    - "[🌍] LTE 🇵🇱 Польша"
+    - "[🌍] LTE 🇫🇮 Финляндия"
+    - "[⭐] 188.114.97.1:500"
+    - "[⭐] 188.114.97.148:4500"
+    - "[⭐] 162.159.195.1:500"
+    - "[⭐] engage.cloudflareclient.com:4500"
+    - "[⭐] engage.cloudflareclient.com:500"
+    - "[⭐] engage.cloudflareclient.com:2408"
+    - "[⭐] 188.114.99.224:1002"
+    - "[⭐] 8.34.146.113:968"
+    - "162.159.192.1:2408"
+    - "162.159.192.1:1701"
+    - "162.159.192.1:4500"
+    - "162.159.192.1:500"
+    - "162.159.192.2:2408"
+    - "162.159.192.2:1701"
+    - "162.159.192.2:4500"
+    - "162.159.192.2:500"
+    - "162.159.192.3:2408"
+    - "162.159.192.3:1701"
+    - "162.159.192.3:4500"
+    - "162.159.192.3:500"
+    - "162.159.192.4:2408"
+    - "162.159.192.4:1701"
+    - "162.159.192.4:4500"
+    - "162.159.192.4:500"
+    - "162.159.192.5:2408"
+    - "162.159.192.5:1701"
+    - "162.159.192.5:4500"
+    - "162.159.192.5:500"
+    - "162.159.192.6:2408"
+    - "162.159.192.6:1701"
+    - "162.159.192.6:4500"
+    - "162.159.192.6:500"
+    - "162.159.192.7:2408"
+    - "162.159.192.7:1701"
+    - "162.159.192.7:4500"
+    - "162.159.192.7:500"
+    - "162.159.192.8:2408"
+    - "162.159.192.8:1701"
+    - "162.159.192.8:4500"
+    - "162.159.192.8:500"
+    - "162.159.192.9:2408"
+    - "162.159.192.9:1701"
+    - "162.159.192.9:4500"
+    - "162.159.192.9:500"
+    - "162.159.192.10:2408"
+    - "162.159.192.10:1701"
+    - "162.159.192.10:4500"
+    - "162.159.192.10:500"
+    - "162.159.192.11:2408"
+    - "162.159.192.11:1701"
+    - "162.159.192.11:4500"
+    - "162.159.192.11:500"
+    - "162.159.192.12:2408"
+    - "162.159.192.12:1701"
+    - "162.159.192.12:4500"
+    - "162.159.192.12:500"
+    - "162.159.192.13:2408"
+    - "162.159.192.13:1701"
+    - "162.159.192.13:4500"
+    - "162.159.192.13:500"
+    - "162.159.192.14:2408"
+    - "162.159.192.14:1701"
+    - "162.159.192.14:4500"
+    - "162.159.192.14:500"
+    - "162.159.192.15:2408"
+    - "162.159.192.15:1701"
+    - "162.159.192.15:4500"
+    - "162.159.192.15:500"
+    - "162.159.192.16:2408"
+    - "162.159.192.16:1701"
+    - "162.159.192.16:4500"
+    - "162.159.192.16:500"
+    - "162.159.192.17:2408"
+    - "162.159.192.17:1701"
+    - "162.159.192.17:4500"
+    - "162.159.192.17:500"
+    - "162.159.192.18:2408"
+    - "162.159.192.18:1701"
+    - "162.159.192.18:4500"
+    - "162.159.192.18:500"
+    - "162.159.192.19:2408"
+    - "162.159.192.19:1701"
+    - "162.159.192.19:4500"
+    - "162.159.192.19:500"
+    - "162.159.192.20:2408"
+    - "162.159.192.20:1701"
+    - "162.159.192.20:4500"
+    - "162.159.192.20:500"
+    - "162.159.195.1:2408"
+    - "162.159.195.1:1701"
+    - "162.159.195.1:4500"
+    - "162.159.195.2:2408"
+    - "162.159.195.2:1701"
+    - "162.159.195.2:4500"
+    - "162.159.195.2:500"
+    - "162.159.195.3:2408"
+    - "162.159.195.3:1701"
+    - "162.159.195.3:4500"
+    - "162.159.195.3:500"
+    - "162.159.195.4:2408"
+    - "162.159.195.4:1701"
+    - "162.159.195.4:4500"
+    - "162.159.195.4:500"
+    - "162.159.195.5:2408"
+    - "162.159.195.5:1701"
+    - "162.159.195.5:4500"
+    - "162.159.195.5:500"
+    - "162.159.195.6:2408"
+    - "162.159.195.6:1701"
+    - "162.159.195.6:4500"
+    - "162.159.195.6:500"
+    - "162.159.195.7:2408"
+    - "162.159.195.7:1701"
+    - "162.159.195.7:4500"
+    - "162.159.195.7:500"
+    - "162.159.195.8:2408"
+    - "162.159.195.8:1701"
+    - "162.159.195.8:4500"
+    - "162.159.195.8:500"
+    - "162.159.195.9:2408"
+    - "162.159.195.9:1701"
+    - "162.159.195.9:4500"
+    - "162.159.195.9:500"
+    - "162.159.195.10:2408"
+    - "162.159.195.10:1701"
+    - "162.159.195.10:4500"
+    - "162.159.195.10:500"
+  url: 'http://speed.cloudflare.com/'
+  interval: 300
 
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@at.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=at.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%A6%F0%9F%87%B9+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
-
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@at.sbrf-cdn342.ru:443?security=tls&encryption=none&echfq=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A6%F0%9F%87%B9+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F+%232
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@am.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=am.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%A6%F0%9F%87%B2+%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@bg.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=bg.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%A7%F0%9F%87%AC+%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@de2.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de2.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@il2.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=il2.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%AE%F0%9F%87%B1+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@kz.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=kz.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B0%F0%9F%87%BF+%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@nl.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@pl-01.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B5%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@ru.c2horizon.app:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@us2.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=us2.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%BA%F0%9F%87%B8+%D0%A1%D0%A8%D0%90
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@tr.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tr.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%B9%F0%9F%87%B7+%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@fr.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fr.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%AB%F0%9F%87%B7+%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-
-vless://b6e3ad2d-819b-492c-a494-751e2d599c01@ee.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ee.c2horizon.app&sid=122218f4c1f172e4#%F0%9F%87%AA%F0%9F%87%AA+%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
-
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@kz.sbrf-cdn342.ru:443?security=tls&encryption=none&alpn=http/1.1&echfq=none&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B0%F0%9F%87%BF+%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD+%232
-
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@uae.sbrf-cdn342.ru:443?security=tls&encryption=none&alpn=http/1.1&echfq=none&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A6%F0%9F%87%AA+%D0%9E%D0%90%D0%AD
-
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@georg.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%AC%F0%9F%87%AA+%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F
-
-vless://50ae3418-7795-4739-b9b8-5d4ee6604874@45.91.53.170:8443?security=reality&encryption=none&echfq=none&pbk=mAAUq-FTkfw2HOWITaQBSJ1oUdhfEZ5FfBsdBjqgiSo&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323b#%F0%9F%87%B7%F0%9F%87%BA++%D0%94%D0%BB%D1%8F+YouTube
-
-vless://50ae3418-7795-4739-b9b8-5d4ee6604874@85.192.49.123:5443?security=reality&encryption=none&echfq=none&pbk=TYGNzNJ_2ru-WgMXXCHiw5pTF4WS9q0aja9aFgskChY&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=ad7dab462a323c#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%7C+%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9+%F0%9F%92%8E
-
-vless://50550ccf-a063-47e7-bf95-ddc73710663a@85.239.63.126:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%A6%F0%9F%87%B2+%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F+%7C+%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9+%F0%9F%92%8E
-
-vless://50550ccf-a063-47e7-bf95-ddc73710663a@46.254.19.103:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#%E2%AC%87%EF%B8%8F+%D0%94%D0%BB%D1%8F+%D0%9C%D0%BE%D0%B1.+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0+%E2%AC%87%EF%B8%8F
-
-vless://50550ccf-a063-47e7-bf95-ddc73710663a@46.254.19.103:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#%D0%91%D0%A1+1
-
-vless://50550ccf-a063-47e7-bf95-ddc73710663a@37.143.15.138:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#%D0%91%D0%A1+2
-
-vless://50550ccf-a063-47e7-bf95-ddc73710663a@37.143.15.166:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%D0%91%D0%A1+3
-
-vless://50550ccf-a063-47e7-bf95-ddc73710663a@46.254.18.107:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%D0%91%D0%A1+4
-
-vless://50550ccf-a063-47e7-bf95-ddc73710663a@ru1.platinatester.icu:443?security=reality&encryption=none&echfq=none&pbk=pCuxB_edEjjHHt_sYHEAEQyrX2L1VfDaQkPpnd78LAM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru1.platinatester.icu#%D0%91%D0%A1+5
-
-vless://50550ccf-a063-47e7-bf95-ddc73710663a@46.8.209.160:443?security=reality&encryption=none&echfq=none&pbk=pCuxB_edEjjHHt_sYHEAEQyrX2L1VfDaQkPpnd78LAM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=db04ce8bdb8900f1#%D0%91%D0%A1+6
-
-vless://50550ccf-a063-47e7-bf95-ddc73710663a@37.143.14.178:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#%D0%91%D0%A1+7
-
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%E2%AC%86%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%86%EF%B8%8F+%40vpnelkabot
-
-vless://00000000-0000-0000-0000-0000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%D0%A2%D0%93+%D0%92%D0%9F%D0%9D%D0%90+%40vpnelkabot
+rules:
+- PROCESS-NAME,Discord.exe,Cloudflare
+- PROCESS-NAME,Update.exe,Cloudflare
+- RULE-SET,telegram,Cloudflare
+- RULE-SET,discord,Cloudflare
+- RULE-SET,youtube,Cloudflare
+- RULE-SET,porno,Cloudflare
+- RULE-SET,torrent,Cloudflare
+- RULE-SET,tools,Cloudflare
+- RULE-SET,socials,Cloudflare
+- RULE-SET,music,Cloudflare
+- MATCH,DIRECT
