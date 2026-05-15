@@ -4,44 +4,28 @@
 #support-url: https://t.me/GLelkavpn_bot
 #profile-web-page-url: https://t.me/GLelkavpn_bot
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-trojan://162534@193.148.58.153:8443/?type=ws&host=cchh2.pages.dev&sni=cchh2.pages.dev&fp=chrome&security=tls&allowInsecure=1&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇪 ELKA VPN 🎄
-vless://0f8182d7-5acb-4623-9d8b-7b3afff1c4d0@84.201.128.19:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=#🇸🇴 ELKA VPN 🎄
-trojan://162534@146.19.84.236:2053/?type=ws&host=cchh2.pages.dev&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#🇧🇸 ELKA VPN 🎄
-vless://e9df7b68-f2d7-4726-b774-a474e91e0d69@msk.steptofreedom.one:443?sid=43260000&flow=xtls-rprx-vision&sni=msk.steptofreedom.one&fp=randomized&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&type=tcp&freeinternet=kizyak_vpn1778777612456#🇳🇱 ELKA VPN 🎄
-hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@dmit.solistrumo.com:25004?alpn=h3&sni=dmit.solistrumo.com#🇺🇸 ELKA VPN 🎄
-vless://b406ff54-96f2-45ce-9179-e4e00bff1cf6@poland.lumixnet.com:443?fp=chrome&sni=poland.lumixnet.com&pbk=CeocQQsEj87Z5zvHIko55Bf7oWP9VDnd5qefDaNCIR8&type=tcp&security=reality&flow=xtls-rprx-vision&sid=22bf188b62fa255f#🇵🇱 ELKA VPN 🎄
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@114.204.217.229:25565?plugin=v2ray-plugin;mode=websocket;host=woshinidie-et3.pages.dev;path=/59fc5f8c-5697-4eb8-acf2-8ae363f203a2/?ed\=2560;tls;mux=0#🇪🇺 ELKA VPN 🎄
-trojan://162534@169.40.6.227:8443/?sni=cchh2.pages.dev&type=ws&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&allowInsecure=1&fp=chrome&host=cchh2.pages.dev&freeinternet=kizyak_vpn1778777610675#🇪🇺 ELKA VPN 🎄
-vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@it-bridge.sbrf-cdn342.ru:443?allowInsecure=1&encryption=none&headertype=none&type=tcp&fp=qq&alpn=http/1.1&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru#🇸🇪 ELKA VPN 🎄
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1&packetencoding=none#🇵🇱 ELKA VPN 🎄
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&type=tcp#🇮🇳 ELKA VPN 🎄
-trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?type=tcp&fm={"quicParams":{"congestion":"brutal","brutalUp":"500+mbps","brutalDown":"500+mbps","initStreamReceiveWindow":8388608,"maxStreamReceiveWindow":8388608,"initConnectionReceiveWindow":20971520,"maxConnectionReceiveWindow":20971520,"maxIncomingStreams":1024}}&security=tls&fp=qq&alpn=h2,http/1.1&sni=yespaintstudio.rav-kraski.ru#🇺🇸 ELKA VPN 🎄
-trojan://162534@193.168.172.162:8443/?type=ws&fp=chrome&security=tls&host=cchh2.pages.dev&sni=cchh2.pages.dev&allowInsecure=1&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&descriptions=СвободуИнтернету828#🇸🇪 ELKA VPN 🎄
-trojan://162534@62.182.193.126:8443/?host=cchh2.pages.dev&sni=cchh2.pages.dev&security=tls&allowInsecure=1&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws&fp=chrome&__rand=0c7f03df#🇸🇪 ELKA VPN 🎄
-vless://c8e292bf-37c6-4f4e-b0cc-69508d10cd4f@31.15.16.169:443?flow=xtls-rprx-vision&pbk=udw-gSqfsNtKKEU_bM8h4V52LX4bTf5pD2I2essf1ys&sni=cloudflare.com&fp=randomized&security=reality&sid=7e8b7e5f0d53d077&type=tcp#🇳🇱 ELKA VPN 🎄
-trojan://162534@2.56.91.89:8443/?fp=chrome&allowInsecure=1&sni=cchh2.pages.dev&security=tls&host=cchh2.pages.dev&type=ws&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#🇭🇰 ELKA VPN 🎄
-trojan://humanity@185.18.250.252:443?alpn=h2,http/1.1&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org&type=ws#🇵🇱 ELKA VPN 🎄
-vless://8653c309-2e28-4cea-90a7-8c0a705cf4cd@bled-vpn.mooo.com:443?spx=/iTlpmfmDyFxrvTW&pbk=r0p4mowN4DRuD2hdpwMxUicIf3RmDG2Iu7SJ_S6sHQs&security=reality&type=tcp&sid=8f2347ebd9&flow=xtls-rprx-vision&fp=chrome&sni=sub.gertyhru.h-o-s-t.name&_t=ada124db#🇬🇧 ELKA VPN 🎄
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@37.9.5.175:443?encryption=none&flow=xtls-rprx-vision&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sni=max.ru&fp=chrome&sid=2da46294d6a521B2&type=tcp&security=reality&__rand=ebd4a105#🇵🇱 ELKA VPN 🎄
-trojan://162534@64.112.124.233:8443/?security=tls&allowInsecure=1&sni=cchh2.pages.dev&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws&fp=chrome&host=cchh2.pages.dev#🇸🇪 ELKA VPN 🎄
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@103.227.84.1:443?pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sni=sw1tzerl4nd.gxcore.net&sid=a1ab5a56bc42&security=reality&flow=xtls-rprx-vision&fp=chrome&type=tcp#🇳🇱 ELKA VPN 🎄
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.26.2.252:2087?sni=pagescm.freen11.cc.cd&type=ws&host=pagescm.freen11.cc.cd&path=/acg/torrent/infofp=chrome&security=tls#🇲🇪 ELKA VPN 🎄
-trojan://162534@2.56.91.89:2053/?path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=cchh2.pages.dev&sni=cchh2.pages.dev&type=ws&allowInsecure=1&security=tls&fp=chrome&freeinternet=kizyak_vpn177877759821#🇭🇰 ELKA VPN 🎄
-hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443?headertype=none&encryption=none&sni=finprem.nimarko.org&allowInsecure=1#🇫🇮 ELKA VPN 🎄
-trojan://162534@103.118.42.16:8443/?type=ws&host=cchh2.pages.dev&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome&freeinternet=kizyak_vpn1778777605291#🇭🇰 ELKA VPN 🎄
-trojan://162534@193.168.197.37:2053/?type=ws&host=cchh2.pages.dev&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome&nonce=eAcC_kOp#🇸🇪 ELKA VPN 🎄
-trojan://162534@94.242.58.206:8443/?fp=chrome&host=cchh2.pages.dev&sni=cchh2.pages.dev&type=ws&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&allowInsecure=1&descriptions=СвободуИнтернету837#🇸🇪 ELKA VPN 🎄
-trojan://162534@138.124.112.238:2053/?type=ws&host=cchh2.pages.dev&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome&__rand=27f79b83#🇫🇮 ELKA VPN 🎄
-trojan://162534@193.148.58.153:8443/?allowInsecure=1&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&fp=chrome&host=cchh2.pages.dev&sni=cchh2.pages.dev&type=ws&security=tls#🇸🇪 ELKA VPN 🎄
-trojan://162534@193.168.197.37:2053/?type=ws&fp=chrome&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&allowInsecure=1&security=tls&sni=cchh2.pages.dev&host=cchh2.pages.dev&__rand=c31249f7#🇸🇪 ELKA VPN 🎄
-trojan://11559103-9993-4d00-b599-d6bcd8db2197@free-v7-09.elbrusway.online:443?security=tls&type=ws&sni=free-v7-09.elbrusway.online&host=free-v7-09.elbrusway.online&path=/trojan-dagestan&_t=c7ce09fb#🇬🇧 ELKA VPN 🎄
-vless://4b79c2ed-528b-45e4-8997-e5d9de81e8e2@18.143.177.226:22472?flow=xtls-rprx-vision&sni=www.sony.com&type=tcp&encryption=none&spx=&security=reality&fp=firefox&pbk=DEvHMT3zhxUxnuqJxq88Z_8413kiseb7YtzU719D4kg&sid=45cb8dfc393d9191#🇸🇬 ELKA VPN 🎄
-trojan://162534@103.118.42.16:8443/?sni=cchh2.pages.dev&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws&fp=chrome&host=cchh2.pages.dev&security=tls&allowInsecure=1#🇭🇰 ELKA VPN 🎄
-vless://b406ff54-96f2-45ce-9179-e4e00bff1cf6@poland.lumixnet.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=CeocQQsEj87Z5zvHIko55Bf7oWP9VDnd5qefDaNCIR8&sid=22bf188b62fa255f&sni=poland.lumixnet.com&freeinternet=kizyak_vpn177877760416#🇵🇱 ELKA VPN 🎄
-vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?flow=xtls-rprx-vision&sid=88ce6b586fcaf681&sni=cdnjs.com&type=tcp&security=reality&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&fp=chrome#🇫🇮 ELKA VPN 🎄
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@fi-g.sbrf-cdn342.ru:443?fp=qq&sni=sub.sbrf-cdn342.ru&encryption=none&alpn=http/1.1&headertype=none&type=tcp&security=tls&allowInsecure=1&flow=xtls-rprx-vision&descriptions=люби_себяc4743a#🇳🇱 ELKA VPN 🎄
-vless://cafb0008-f208-42e0-82ff-e8a69ddc4eb3@bostvpn.mooo.com:443?spx=/0YbAbnuywUcloXh&pbk=rl-U3laVSHr1tk75DweXNBWJc3tzzGgeyXDeYEq3XUw&fp=chrome&sni=sub.gertyhru.h-o-s-t.name&flow=xtls-rprx-vision&type=tcp&sid=1c32510a71c062&security=reality#🇬🇧 ELKA VPN 🎄
-vless://0f8182d7-5acb-4623-9d8b-7b3afff1c4d0@84.201.128.19:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=#🇸🇴 ELKA VPN 🎄
-trojan://162534@185.22.174.208:8443/?type=ws&sni=cchh2.pages.dev&fp=chrome&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&allowInsecure=1&host=cchh2.pages.dev&seq=you_are_beautiful9594#🇪🇺 ELKA VPN 🎄
-trojan://162534@5.34.209.18:2053/?type=ws&host=cchh2.pages.dev&path=/?ed=2560&https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#🇧🇸 ELKA VPN 🎄
-trojan://telegram-id-privatevpns@35.180.235.87:22222?amp;headertype=none&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&security=tls&amp;type=tcp&nonce=47yyEwtu#🇪🇺 ELKA VPN 🎄
+vless://11547626-7da9-000c-8a8a-ea9dc1d21e80@co-vk.speedtec.ru:443?security=reality&sni=eh.vk.com&fp=chrome&pbk=VbHm0VbqW1992faNSxDoh_zEfoBkpifWUudV8mf5y3M&sid=226509f017e4c36d&type=tcp&flow=xtls-rprx-vision#LTE%20%231%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://dcfc3b18-febc-4957-bacf-d6c854de89a8@kelm.bexum.fun:5443?security=reality&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&type=tcp&flow=xtls-rprx-vision#LTE%20%232%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://11547626-7da9-000e-8a8a-ea9dc1d21e80@co-vk.speedtec.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&pbk=VbHm0VbqW1992faNSxDoh_zEfoBkpifWUudV8mf5y3M&sid=226509f017e4c36d#LTE%20%233%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://UUID@SERVER_IP:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&pbk=PUBLIC_KEY&sid=SHORT_ID#LTE%20%234%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@37.143.14.178:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#LTE%20%235%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://11547626-7da9-000b-8a8a-ea9dc1d21e80@co-vk.speedtec.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&pbk=VbHm0VbqW1992faNSxDoh_zEfoBkpifWUudV8mf5y3M&sid=226509f017e4c36d#LTE%20%236%20(%D0%90%D0%B2%D1%82%D0%BE)%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://5a1056f2-01f0-42f8-8db1-fdb1029c797e@216.227.157.28:50095?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&fp=chrome&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&sid=8517f57284f838d3#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%2025%20%D0%93%D0%B1%D0%B8%D1%82%2F%D0%A1%D0%B5%D0%BA%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://00a31b83-d78a-4866-9124-bf80ab961501@fr03.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fr03.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://50550ccf-a063-47e7-bf95-ddc73710663a@85.239.63.126:443?security=reality&encryption=none&echfq=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%A6%F0%9F%87%B2%20%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%20%7C%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%F0%9F%92%8E%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://50ae3418-7795-4739-b9b8-5d4ee6604874@85.192.49.123:5443?security=reality&encryption=none&echfq=none&pbk=TYGNzNJ_2ru-WgMXXCHiw5pTF4WS9q0aja9aFgskChY&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=ad7dab462a323c#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%7C%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%F0%9F%92%8E%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://02093a1f-27df-4b74-94fb-ba21e6e26491@144.31.47.56:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=Sej8HxV0t3wxhyz6ol--mnl1JP3kRhzSuMlYuvzaCwI&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=74a8b5148033ab#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://02093a1f-27df-4b74-94fb-ba21e6e26491@193.58.121.113:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=YYQgLsZiDfnG58FysKhy2TypDbX6vYDN28yrxeSHp1Y&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=a95b25f3#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%40ELKA%20VPN%F0%9F%8E%84
+
+vless://02093a1f-27df-4b74-94fb-ba21e6e26491@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%40ELKA%20VPN%F0%9F%8E%84
